@@ -1,0 +1,3 @@
+# SpotsMap
+  Collaborative maps app
+
